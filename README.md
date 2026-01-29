@@ -19,3 +19,5 @@ Before running the audit script, the system environment was prepared according t
 
 ![01_system_upgrade.png](screens/01_system_upgrade.png)
 
+![02_script_code.png](02_script_code.png)
+
