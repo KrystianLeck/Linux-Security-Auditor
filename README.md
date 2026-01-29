@@ -15,3 +15,7 @@ Before running the audit script, the system environment was prepared according t
 - **Tooling:** Installed necessary utilities including `git`, `ufw`, and `iproute2`.
 - **Testbed:** Developed and tested on **Ubuntu 22.04 LTS** running in a VirtualBox environment.
 
+---
+
+![01_system_upgrade.png](screens/01_system_upgrade.png)
+
