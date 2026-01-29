@@ -21,7 +21,7 @@ Before running the audit script, the system environment was prepared according t
 
 ![02_script_code.png](screens/02_script_code.png)
 
-![03_audit_warning.png](03_audit_warning.png)
+![03_audit_warning.png](screens/03_audit_warning.png)
 
-![04_final_report.png](04_final_report.png)
+![04_final_report.png](screens/04_final_report.png)
 
